@@ -1,0 +1,14 @@
+C:\Users\aniru\OneDrive\Desktop\Training\FirstConsoleApp\FirstConsoleApp\bin\Debug\netcoreapp3.1\FirstConsoleApp.exe
+C:\Users\aniru\OneDrive\Desktop\Training\FirstConsoleApp\FirstConsoleApp\bin\Debug\netcoreapp3.1\FirstConsoleApp.deps.json
+C:\Users\aniru\OneDrive\Desktop\Training\FirstConsoleApp\FirstConsoleApp\bin\Debug\netcoreapp3.1\FirstConsoleApp.runtimeconfig.json
+C:\Users\aniru\OneDrive\Desktop\Training\FirstConsoleApp\FirstConsoleApp\bin\Debug\netcoreapp3.1\FirstConsoleApp.runtimeconfig.dev.json
+C:\Users\aniru\OneDrive\Desktop\Training\FirstConsoleApp\FirstConsoleApp\bin\Debug\netcoreapp3.1\FirstConsoleApp.dll
+C:\Users\aniru\OneDrive\Desktop\Training\FirstConsoleApp\FirstConsoleApp\bin\Debug\netcoreapp3.1\FirstConsoleApp.pdb
+C:\Users\aniru\OneDrive\Desktop\Training\FirstConsoleApp\FirstConsoleApp\obj\Debug\netcoreapp3.1\FirstConsoleApp.csproj.AssemblyReference.cache
+C:\Users\aniru\OneDrive\Desktop\Training\FirstConsoleApp\FirstConsoleApp\obj\Debug\netcoreapp3.1\FirstConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aniru\OneDrive\Desktop\Training\FirstConsoleApp\FirstConsoleApp\obj\Debug\netcoreapp3.1\FirstConsoleApp.AssemblyInfoInputs.cache
+C:\Users\aniru\OneDrive\Desktop\Training\FirstConsoleApp\FirstConsoleApp\obj\Debug\netcoreapp3.1\FirstConsoleApp.AssemblyInfo.cs
+C:\Users\aniru\OneDrive\Desktop\Training\FirstConsoleApp\FirstConsoleApp\obj\Debug\netcoreapp3.1\FirstConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\aniru\OneDrive\Desktop\Training\FirstConsoleApp\FirstConsoleApp\obj\Debug\netcoreapp3.1\FirstConsoleApp.dll
+C:\Users\aniru\OneDrive\Desktop\Training\FirstConsoleApp\FirstConsoleApp\obj\Debug\netcoreapp3.1\FirstConsoleApp.pdb
+C:\Users\aniru\OneDrive\Desktop\Training\FirstConsoleApp\FirstConsoleApp\obj\Debug\netcoreapp3.1\FirstConsoleApp.genruntimeconfig.cache
